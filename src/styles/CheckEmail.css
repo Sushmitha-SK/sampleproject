@@ -1,0 +1,45 @@
+.main {
+    overflow-y: hidden;
+    align-items: 'center';
+    justify-content: 'center';
+    text-align: 'center';
+    height: '100%'
+}
+
+.checkemail_container {
+    overflow-y: hidden;
+    /* top: 251px; */
+}
+
+.heading_title {
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    text-align: left;
+    color: #212121;
+}
+
+.resetlink_text {
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29px;
+    color: #212121;
+}
+
+.resend_text {
+    font-weight: 400;
+    font-size: 18px;
+    font-family: 'Helvetica Neue';
+    color: #212121;
+}
+
+.resend_link {
+    font-family: 'Helvetica Neue';
+    color: #7852FB;
+    font-weight: 400;
+    font-size: 18px;
+    text-decoration: none;
+}
