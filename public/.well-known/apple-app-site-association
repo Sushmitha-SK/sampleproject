@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "HP5YLVDU97.com.deeplinksample",
+        "paths": [ "/home*", "/login*", "/resetpassword*", "/checkemail*", "/changepassword/:token*", "/dashboard*"]
+      }
+    ]
+  }
+}
